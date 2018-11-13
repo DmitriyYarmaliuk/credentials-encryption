@@ -1,0 +1,14 @@
+{
+  "name": "password-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encritpt.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keytar": "^4.3.0"
+  }
+}
